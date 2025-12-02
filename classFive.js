@@ -1,0 +1,1 @@
+// block scope global scope, simple understanding of hosting

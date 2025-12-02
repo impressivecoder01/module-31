@@ -1,0 +1,1 @@
+// (advanced) explore about closure
